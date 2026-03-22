@@ -33,6 +33,9 @@
         
         <p><strong>4. Google Play / Kjøp i app</strong><br>
         Transaksjoner for Pro-versjonen eller støtte til utvikler håndteres direkte av Google Play. Appen mottar kun bekreftelse på gjennomført kjøp for å låse opp funksjoner; ingen betalingsinformasjon lagres i appen.</p>
+
+        <p><strong>5. Kamera og bildebruk</strong><br>
+        Appen kan be om tilgang til kamera for å la brukeren ta bilder av tekst (for eksempel oppskrifter) og konvertere dette til tekst (OCR-funksjon). Bilder og tekst behandles kun lokalt på enheten og blir ikke lagret, delt eller sendt til noen server.</p>
     </div>
 
     <div class="lang-section">
@@ -48,6 +51,9 @@
         
         <p><strong>4. Google Play / In-app Purchases</strong><br>
         Transactions for the Pro version or developer support are handled directly by Google Play. The app only receives confirmation of a completed purchase to unlock features; no payment information is stored within the app.</p>
+
+        <p><strong>5. Camera and Image Usage</strong><br>
+        The app may request access to the device camera to allow users to capture images of text (such as recipes) and convert them into text (OCR functionality). All images and processed text are handled locally on the device and are not stored, shared, or transmitted to any server.</p>
     </div>
 
     <footer>
